@@ -1,19 +1,16 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Dec 2022 - 2026 (expected)",
+            "cardTitle": "Bacherlor of Technology (B.Tech.)",
+            "cardSubtitle":"Indian Institute of Technology (IIT) Dharwad",
+            "cardDetailedText": "Computer Science and Engineering"
         },
         {
-            "title": "Apr 20XX",
+            "title": "Apr 2019 - Mar 2022",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Disha Delphi Public School",
+            "cardDetailedText": "Marks - 97.2%"
         }
     ]
 }

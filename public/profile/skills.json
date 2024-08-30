@@ -6,6 +6,18 @@
             "items" : [
      
                 {
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/c++.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
@@ -14,32 +26,52 @@
                     "title": "PHP"
                 },
                 {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/matlab.png",
+                    "title": "MATLAB"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "title": "Node.js"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/tailwind.png",
+                    "title": "Tailwind"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
                 }
             ]
         },
@@ -47,8 +79,16 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/linux.png",
+                    "title": "Linux"
+                },
+                {
+                    "icon": "images/skills/bash.png",
+                    "title": "Bash"
+                },
+                {
+                    "icon": "images/skills/latex.png",
+                    "title": "LaTeX"
                 },
                 {
                     "icon": "images/skills/git.png",
