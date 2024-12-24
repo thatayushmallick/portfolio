@@ -1,0 +1,26 @@
+.section-content-container {
+    padding: 20px;
+  }
+  
+  .intro-text-container {
+    margin: 10px;
+    text-align: left;
+    font-size: 1.2em;
+    font-weight: 500;
+    white-space: pre-wrap;
+  }
+  
+  .intro-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .fixed-image {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10;
+  }
+  

@@ -6,6 +6,7 @@ import Fade from 'react-reveal';
 import Header from './Header';
 import endpoints from '../constants/endpoints';
 import FallbackSpinner from './FallbackSpinner';
+import '../css/About.css';
 
 const styles = {
   introTextContainer: {
@@ -52,11 +53,15 @@ function About(props) {
             ? (
               <Fade>
                 <Row>
-                  <Col style={styles.introTextContainer}>
+                  <Col className="intro-text-container">
                     {parseIntro(data.about)}
                   </Col>
-                  <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
+                  <Col className="intro-image-container">
+                    <img 
+                      src={data?.imageSource} 
+                      alt="profile" 
+                      className="fixed-image" 
+                    />
                   </Col>
                 </Row>
               </Fade>
