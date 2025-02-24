@@ -58,12 +58,8 @@
                     "title": "Node.js"
                 },
                 {
-                    "icon": "images/skills/bootstrap.png",
-                    "title": "Bootstrap"
-                },
-                {
-                    "icon": "images/skills/tailwind.png",
-                    "title": "Tailwind"
+                    "icon": "images/skills/expressjs.png",
+                    "title": "Express.js"
                 },
                 {
                     "icon": "images/skills/flask.png",
@@ -72,6 +68,18 @@
                 {
                     "icon": "images/skills/django.png",
                     "title": "Django"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "Bootstrap"
+                },
+                {
+                    "icon": "images/skills/tailwind.png",
+                    "title": "Tailwind"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 }
             ]
         },
@@ -97,6 +105,18 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/nginx.png",
+                    "title": "Nginx"
+                },
+                {
+                    "icon": "images/skills/streamline.png",
+                    "title": "Streamline"
                 }
             ]
     }

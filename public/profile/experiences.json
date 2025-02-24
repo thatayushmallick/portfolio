@@ -1,13 +1,22 @@
 {
     "experiences": [
         {
+            "title": "Research Assistant",
+            "subtitle": "IIT Dharwad",
+            "workDescription": [
+                "Developing a framework to estimate and optimize chiplet-based System-on-Chip(SoC) performance.",
+                "Analyzing power, latency, and interconnect efficiency using simulation techniques.",
+                "Leveraging tools like Streamline and Perf for performance validation and optimization."
+            ],
+            "dateText": "Oct 2024 - Present"
+        },
+        {
             "title": "Teaching Assistant",
             "subtitle": "IIT Dharwad",
             "workDescription": [
-                "Assist in teaching the fundamentals of programming in C and Linux commands.",
-                "Provide one-on-one support, helping students solve programming challenges.",
-                "Conduct weekly lab sessions, guiding students and debugging code in real-time.",
-                "Conduct weekly lab sessions, guiding students and debugging code in real-time."
+                "Assist in teaching C programming and Linux commands to 300+ students, improving coding proficiency.",
+                "Conduct weekly lab sessions, debugging code and assisting students one-on-one in real-time.",
+                "Collaborate with professors in developing instructional materials and lab assignments."
             ],
             "dateText": "Aug 2024 - Present"
         }
