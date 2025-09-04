@@ -1,9 +1,60 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/ethereum-dapp-poster.png",
+            "title": "Decentralized Social Media Application",
+            "bodyText": "- Built a decentralized app on Ethereum with Solidity to verify provenance and combat misinformation.\n - Modeled an on-chain dynamic reputation system, handling 1000+ simulated users and transactions.\n - Engineered a consensus mechanism using a voting threshold-based governance model.\n - Integrated IPFS based decentralized storage, ensuring 100% immutability and tamper resistance.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thatayushmallick/decentralized-x"
+                }
+            ],
+            "tags" : [
+                "Solidity",
+                "Node.js",
+                "Ethers.js",
+                "React.js",
+                "Sepolia",
+                "Tailwind"
+            ]
+        },
+        {
+            "image" : "images/projects/streakio-poster.png",
+            "title": "Streakio",
+            "bodyText": "- Developed a native, habit tracking Android application with real-time streak synchronization.\n - Implemented Firebase Authentication & Firestore, enabling secure logins with 100% uptime during testing.\n - Designed an intuitive and modern Material 3 user interface with Jetpack Compose, employing MVVM architecture and Kotlin Coroutines/Flow for efficient asynchronous operations and state management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thatayushmallick/streakio"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android Studio",
+                "Jetpack Compose",
+                "Firebase"
+            ]
+        },
+        {
+            "image" : "images/projects/chatbot-poster.png",
+            "title": "GPT ChatBot",
+            "bodyText": "- Built a ChatGPT-powered chatbot, handling 2,000+ queries per day in a simulated test environment.\n - Leveraged OpenAI’s API to create a conversational AI capable of engaging in natural language interactions.\n - Developed backend functionalities including user session management, conversation history storage, and secure REST endpoints for API request handling, reducing response latency to <200ms under load tests.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/thatayushmallick/gpt-chatbot"
+                }
+            ],
+            "tags" : [
+                "Node.js",
+                "JavaScript"
+            ]
+        },
+        {
             "image" : "images/projects/portfolio-poster.png",
             "title": "Portfolio Webpage",
-            "bodyText": "- Developer portfolio website showcasing personal projects, skills, and professional experiences.\n - Enhanced UI/UX by incorporating smooth navigation, interactive elements, and a clean, minimalist design.\n - Dark mode and Light mode support.",
+            "bodyText": "- Designed and deployed a responsive personal portfolio site with >90% Lighthouse performance score.\n - Implemented interactive design principles to ensure optimal viewing experience across various devices.\n - Utilized Git and GitHub for version control, maintaining 100% deployment uptime via CI/CD pipelines.\n - Enhanced UI/UX by incorporating intuitive navigation, smooth elements, and a clean, minimalist design.",
             "links": [
                 {
                     "text": "GitHub",
@@ -22,24 +73,9 @@
             ]
         },
         {
-            "image" : "images/projects/chatbot-poster.png",
-            "title": "GPT ChatBot",
-            "bodyText": "- A ChatGPT API-based chatbot designed and developed from scratch using Node.js.\n - Leveraged OpenAI’s library to create a conversational AI capable of engaging in natural language interactions.\n - Implemented backend functionalities including user session management, conversation history storage, and API request handling to ensure seamless communication between the frontend and the AI model.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/thatayushmallick/gpt-chatbot"
-                }
-            ],
-            "tags" : [
-                "Node.js",
-                "JavaScript"
-            ]
-        },
-        {
             "image" : "images/projects/connect4-poster.png",
             "title": "Connect 4",
-            "bodyText": "- A fully functional Connect 4 game, incorporating core logic in adherence to game rules.\n - Robust AI opponent using Minimax algorithm with stochastic elements and alpha-beta pruning.\n - Employed modular coding practices and object-oriented design, facilitating easy updates, maintenance, and potential feature expansions.",
+            "bodyText": "- Developed a fully functional Connect 4 game, incorporating core logic in adherence to game rules.\n - Designed a robust AI opponent using minimax algorithm with stochastic elements and alpha-beta pruning.\n - Applied modular OOP design and coding practices, facilitating easy updates and feature expansions.",
             "links": [
                 {
                     "text": "GitHub",
@@ -49,7 +85,7 @@
             "tags" : [
                 "Python",
                 "Pygame",
-                "Numpy",
+                "NumPy",
                 "Matplotlib"
             ]
         }

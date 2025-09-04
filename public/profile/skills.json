@@ -18,6 +18,10 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/kotlin.png",
+                    "title": "Kotlin"
+                },
+                {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
@@ -42,12 +46,16 @@
                     "title": "MySQL"
                 },
                 {
+                    "icon": "images/skills/mongodb.png",
+                    "title": "MongoDB"
+                },
+                {
                     "icon": "images/skills/matlab.png",
                     "title": "MATLAB"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Frameworks & Libraries",
             "items" : [
                 {
                     "icon": "images/skills/react.png",
@@ -62,12 +70,28 @@
                     "title": "Express.js"
                 },
                 {
+                    "icon": "images/skills/nextjs.png",
+                    "title": "Next.js"
+                },
+                {
                     "icon": "images/skills/flask.png",
                     "title": "Flask"
                 },
                 {
                     "icon": "images/skills/django.png",
                     "title": "Django"
+                },
+                {
+                    "icon": "images/skills/pytorch.png",
+                    "title": "PyTorch"
+                },
+                {
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "TensorFlow"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 },
                 {
                     "icon": "images/skills/bootstrap.png",
@@ -78,14 +102,30 @@
                     "title": "Tailwind"
                 },
                 {
-                    "icon": "images/skills/firebase.png",
-                    "title": "Firebase"
+                    "icon": "images/skills/numpy.png",
+                    "title": "NumPy"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/scikitlearn.png",
+                    "title": "scikit-learn"
+                },
+                {
+                    "icon": "images/skills/matplotlib.png",
+                    "title": "Matplotlib"
                 }
             ]
         },
         {
             "title" : "Tools & Platforms",
             "items": [
+                {
+                    "icon": "images/skills/aarch64.png",
+                    "title": "AArch64"
+                },
                 {
                     "icon": "images/skills/linux.png",
                     "title": "Linux"
@@ -101,6 +141,10 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/androidstudio.png",
+                    "title": "Android Studio"
                 },
                 {
                     "icon": "images/skills/docker.png",

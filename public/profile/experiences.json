@@ -1,24 +1,34 @@
 {
     "experiences": [
         {
-            "title": "Research Assistant",
-            "subtitle": "IIT Dharwad",
+            "title": "Data Science Intern",
+            "subtitle": "ProgressRail",
             "workDescription": [
-                "Developing a framework to estimate and optimize chiplet-based System-on-Chip(SoC) performance.",
-                "Analyzing power, latency, and interconnect efficiency using simulation techniques.",
-                "Leveraging tools like Streamline and Perf for performance validation and optimization."
+                "Developed predictive models for Remaining Useful Life (RUL) estimation of locomotive components.",
+                "Leveraged real-world sensor data and processed 500,000+ failure log entries to build and validate time-to-failure prediction models, with 18% more accuracy than baseline regression models.",
+                "Designed survival-based ML models to anticipate failures, reducing maintenance downtime by 25%."
             ],
-            "dateText": "Oct 2024 - Present"
+            "dateText": "June 2025 - July 2025"
         },
         {
-            "title": "Teaching Assistant",
-            "subtitle": "IIT Dharwad",
+            "title": "Research and Development Intern",
+            "subtitle": "Indian Institute of Technology (IIT) Dharwad",
             "workDescription": [
-                "Assist in teaching C programming and Linux commands to 300+ students, improving coding proficiency.",
-                "Conduct weekly lab sessions, debugging code and assisting students one-on-one in real-time.",
-                "Collaborate with professors in developing instructional materials and lab assignments."
+                "Built a framework to estimate and optimize chiplet-based System-on-Chip(SoC) performance.",
+                "Analyzed power, latency, and interconnect efficiency, boosting simulation efficiency by 30%.",
+                "Leveraged tools like Streamline and Perf for performance profiling and validation, with <2% variance."
             ],
-            "dateText": "Aug 2024 - Present"
+            "dateText": "October 2024 - Present"
+        },
+        {
+            "title": "Undergraduate Teaching Assistant",
+            "subtitle": "Indian Institute of Technology (IIT) Dharwad",
+            "workDescription": [
+                "Assisted in teaching C programming and Linux commands to 300+ students, improving coding proficiency.",
+                "Conducted 30+ weekly lab sessions, while debugging code and assisting students one-on-one in real-time.",
+                "Collaborated with professors to develop instructional materials and 15+ lab assignments."
+            ],
+            "dateText": "August 2024 - December 2024"
         }
     ]
 }
